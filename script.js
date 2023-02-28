@@ -1,5 +1,5 @@
 const textElement = document.querySelector("#evaluatedText");
-const h3Element = document.querySelector("#wordcount");
+const h3Element = document.querySelector("#wordCount");
 
 function handleInput(e){
     const sentence = e.target.value;
